@@ -1,3 +1,1 @@
-# Furuta-Pendulum-Control
-Model and simulate the operation of a Furuta Pendulum in Matlab, Simulink and afterwards perform an interface control with a DS1104 board using dSpace.
- Apply the main concepts of “Control Systems Theory and Design” in order to design the most effective control gain, control poles, observer gain and observer poles of the system using powerful Matlab tools such as the LQR and pole placement commands.
+Model and simulate the behavior of a Furuta Pendulum system using MATLAB and Simulink. Subsequently, establish an interface control between the model and a DS1104 board provided by dSpace. Apply fundamental Control Systems Theory and Design principles to determine optimal control parameters, including control gain, control poles, observer gain, and observer poles. Employ robust MATLAB tools like LQR (Linear Quadratic Regulator) and pole placement commands to facilitate this design process.
